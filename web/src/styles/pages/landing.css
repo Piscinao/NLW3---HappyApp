@@ -1,7 +1,7 @@
 #page-landing {
   width: 100vw;
   height: 100vh;
-  background: linear-gradient(329.54deg, #29B6D1 0%, #00C7C7 100%);
+  background: linear-gradient(329.54deg,  #026fc9 0%,  #026fc9 100%);
 
   display: flex;
   justify-content: center;
@@ -81,5 +81,5 @@
 
 
 .content-wrapper .enter-app:hover {
-  background: #96FEFF;
+  background:  #569fdb;
 } 
